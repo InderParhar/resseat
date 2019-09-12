@@ -37,7 +37,7 @@ gem 'bootstrap-sass', '>=3.3.6'
 
 gem 'simplify', '~> 1.1.2'
 
-gem 'devise', '~> 4.2'
+gem 'devise', '~> 4.7'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
